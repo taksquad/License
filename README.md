@@ -1,9 +1,9 @@
 # License
-Copyright (c) 2026 TAK Team
+Copyright (c) 2026 TAK Squad
 
 All rights reserved.
 
-This source code and all associated files are the property of TAK Team.
+This source code and all associated files are the property of TAK Squad.
 
 Permission is NOT granted to:
 
@@ -14,4 +14,4 @@ Permission is NOT granted to:
 
 Viewing the source code is permitted for reference and educational purposes only.
 
-For permission to use, copy, modify, or distribute this code, please contact TAK Team.
+For permission to use, copy, modify, or distribute this code, please contact TAK Squad.
